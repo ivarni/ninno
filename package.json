@@ -1,6 +1,6 @@
 {
   "name": "ninno",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "National Identification Numbers Norway",
   "main": "lib/index.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "url" : "https://github.com/ivarni/ninno.git"
   },
   "author": "Ivar Nilsen",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
